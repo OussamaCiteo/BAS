@@ -12,6 +12,7 @@ sap.ui.define([
                 var that = this;
                 var a = '';
                 var b = '';
+                var c = '';
             }
         });
     });
